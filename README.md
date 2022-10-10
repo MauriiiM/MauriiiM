@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MauriiiM
+- 👀 I’m interested in mobile development, especially cross-platform and specifically Flutter, but when it comes to native, my preference is iOS.
+- 🌱 I’m currently improving my Flutter skills by learning new widly-used packages such as BLoC (I previously used Redux) and Freezed. In addition, I will be learning social network authentication/account creation.
+- 📫 Best way to reach me is probably through [LinkedIn](https://www.linkedin.com/in/MauriiiM) or through an _outlook_ email with the _same_ name as my GitHub. 
