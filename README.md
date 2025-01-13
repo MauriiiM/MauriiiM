@@ -17,6 +17,15 @@
 
 <br><br>
 
+<div align="center">
+  <h3 style="color: #4B0082;"><b>🚧 Currently Working On 🚧</b></h3>
+  <p style="font-size: 18px; text-align: center; color: #000000;">
+    I'm currently working with a group of friends developing a mobile app, <a href="https://github.com/MauriiiM/Nerdy-Trade" target="_blank" style="color: #0175C2; text-decoration: none;">Nerdy Trade</a> (Private Repo), using Flutter, implementing various features such as a marketplace, direct messaging, explore page, and user profiles. 
+  </p>
+</div>
+
+<br><br>
+
 <!-- ![MauriiiM's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriiim&show_icons=true&theme=default_repocard) -->
 <!-- ![Spotify](https://spotify-now-playing-git-main-mauriiims-projects.vercel.app/api/spotify)-->
 
