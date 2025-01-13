@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3><b>🛠 Favorite Techs 🛠</b></h3>
+  <h3 style="color: #4B0082;"><b>🛠 Tech Favorites 🛠</b></h3>
 </div>
 
 <br>
